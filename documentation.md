@@ -1,4 +1,4 @@
-# Splunk Log Simulation Scripts
+# SIEM Log Simulation Scripts
 
 ## Overview
 
@@ -62,7 +62,7 @@ Please follow the comment template provided below for each script:
 # 
 # Script Name: script_name.sh
 # Description: Generates realistic sample logs for <service> server service, tailored for 
-# testing and development purposes within Splunk environments.
+# testing and development purposes within SIEM environments.
 # 
 # Version: 1.0.0
 # Created: 2023-03-19
@@ -107,10 +107,10 @@ Please adhere to these rules when uploading scripts:
 
 The following is a list of available scripts as of today. Each script is accompanied by a brief description of its purpose:
 
-- generate_apache_access_error_log.sh - Generates log samples for Apache Access Error server service, tailored for testing and development purposes within Splunk environments.
+- generate_apache_access_error_log.sh - Generates log samples for Apache Access Error server service, tailored for testing and development purposes within SIEM environments.
 
   
 
 Template:
 
-- script_name_1.sh - Generates log samples for <service_1> server  service, tailored for testing and development purposes within Splunk  environments.
+- script_name_1.sh - Generates log samples for <service_1> server  service, tailored for testing and development purposes within SIEM environments.
