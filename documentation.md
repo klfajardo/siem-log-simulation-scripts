@@ -47,6 +47,8 @@ Please provide a bash script that follows the structure and best practices descr
 6. Provide clear comments for each function and major part of the script to explain the purpose and functionality.
 7. Use double-quotes for variable expansion and prefer [[ ]] over [ ] for conditional expressions.
 8. Always quote variables and use ${variable} notation to avoid ambiguity.
+9. Write all the code inside a code block and don't split it.
+10. Be very precise in the code and make the best possible code you can.
 
 Thank you!
 ```

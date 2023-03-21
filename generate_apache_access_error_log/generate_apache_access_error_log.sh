@@ -2,7 +2,7 @@
 # 
 # Script Name: generate_apache_access_error_log.sh
 # Description: Generates realistic sample logs for Apache service, tailored for
-# testing and development purposes within Splunk environments.
+# testing and development purposes within SIEM environments.
 # 
 # Version: 1.0.0
 # Created: 2023-03-19
@@ -13,7 +13,7 @@
 # - Kevin Fajardo 	- kevinfajardosoto12@gmail.com
 # 
 # Copyright (C) 2023
-# GitHub Repository: https://github.com/klfajardo/splunk-log-simulation-scripts
+# GitHub Repository: https://github.com/klfajardo/siem-log-simulation-scripts
 # 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License v2.0 as published by
