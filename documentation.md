@@ -76,7 +76,7 @@ Please follow the comment template provided below for each script:
 # - Alex Johnson         	- alex.johnson@example.com
 # 
 # Copyright (C) 2023 
-# GitHub Repository: https://github.com/yourusername/splunk-log-simulation-scripts
+# GitHub Repository: https://github.com/klfajardo/splunk-log-simulation-scripts
 # 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License v2.0 as published by
